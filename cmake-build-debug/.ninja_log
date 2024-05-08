@@ -1,0 +1,27 @@
+# ninja log v5
+9	216	1715137195683665840	CMakeFiles/ArrayList.dir/ArrayList.c.o	1c537d2c8ecde4d0
+2	67	1715137381985506140	build.ninja	9e0dca4205ea0820
+7	962	1715136986946642275	CMakeFiles/unittests.dir/test/test_ArrayList.cpp.o	d038180985a4027
+962	1107	1715136987090952428	unittests	9dc3eac5c2c07d33
+6	992	1715116551241554277	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	7583e0335cd288ce
+5	2605	1715116552850378637	CMakeFiles/unittests.dir/googletest/googletest/src/gtest-all.cc.o	6cba8c8f19d0d355
+217	245	1715137195714516000	libArrayList.a	a27ed5b923f609a1
+6	2607	1715116552848798817	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	d2e055ae05a81ad
+2607	2670	1715116552925487000	lib/libgtest.a	8ab3281837c69126
+164	262	1715120499276805112	ArrayListDriver	13ec27d2e3e568e
+2670	2694	1715116552949683000	lib/libgtest_main.a	b7ea2c04e14ab451
+2	164	1715120499178414616	CMakeFiles/ArrayListDriver.dir/Driver.c.o	cae18063ba437d56
+13	808	1715137601625750815	CMakeFiles/unittests.dir/test/test_ArrayList.cpp.o	d038180985a4027
+8	225	1715137708129962355	CMakeFiles/ArrayList.dir/ArrayList.c.o	1c537d2c8ecde4d0
+225	252	1715137708159643000	libArrayList.a	a27ed5b923f609a1
+252	389	1715137708292587892	unittests	9dc3eac5c2c07d33
+12	833	1715137774630252446	CMakeFiles/unittests.dir/test/test_ArrayList.cpp.o	d038180985a4027
+833	884	1715137774684325197	unittests	9dc3eac5c2c07d33
+8	960	1715137929348235523	CMakeFiles/unittests.dir/test/test_ArrayList.cpp.o	d038180985a4027
+960	1101	1715137929492566050	unittests	9dc3eac5c2c07d33
+9	70	1715137998867617085	CMakeFiles/ArrayList.dir/ArrayList.c.o	1c537d2c8ecde4d0
+70	98	1715137998897353000	libArrayList.a	a27ed5b923f609a1
+8	786	1715137999577709860	CMakeFiles/unittests.dir/test/test_ArrayList.cpp.o	d038180985a4027
+786	836	1715137999632830344	unittests	9dc3eac5c2c07d33
+2	53	1715138047220280275	CMakeFiles/ArrayListDriver.dir/Driver.c.o	cae18063ba437d56
+53	98	1715138047264026726	ArrayListDriver	13ec27d2e3e568e

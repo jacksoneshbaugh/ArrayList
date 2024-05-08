@@ -1,0 +1,1 @@
+. "/Users/test/Development/Learning/C/ArrayList/build/Release/generators/deactivate_conanrunenv-release-armv8.sh"
