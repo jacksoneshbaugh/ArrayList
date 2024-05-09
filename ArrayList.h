@@ -1,13 +1,6 @@
 #ifndef ARRAYLIST_ARRAYLIST_H
 #define ARRAYLIST_ARRAYLIST_H
 
-// TODO: Add Element struct to store the element and the size/type of the element to make the ArrayList generic.
-
-typedef struct {
-    void *element;
-    int size;
-} Element;
-
 typedef struct {
     void *array;
     int size;
